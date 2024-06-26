@@ -1,0 +1,100 @@
+img.slide{
+    height: 600px;
+    width:200pxpx;
+    margin-top: -20px;
+}
+body{
+    /* background-image: url(./360_F_73082224_ay4Tus31QNHNmGSIty53ZE6mBrBc47cV.jpg); */
+    background-repeat: no-repeat;
+    background-color: black;
+    background-size:100% ;
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
+    background-size: cover;
+}
+.photo{
+    width: 450px;
+    height: 550px;
+    position: relative;
+    bottom: 20px;
+}
+.contactme{
+    position: relative;
+    left:130px;
+
+}
+.col{
+    list-style:none;
+  
+}
+.col{
+    list-style:none;
+}
+*{
+    color: white;
+}
+#aboutimg{
+    height: 350px;
+    width: 300px;
+}
+.skp{
+    font-size:17px;
+}
+#home{
+    margin-top: 150px;
+}
+#bigpetti{
+    height: 250px;
+}
+#cheriyapetti1{
+    height: 165px;
+}
+#logo{
+    display: flex;
+    position: relative;
+    top:100px;
+    left: 45px;
+    
+    
+}
+#bp1{
+    height: 300px;
+}
+#bp2{
+    height: 700px;
+}
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+    color:yellowgreen;
+}
+.fa-brands:hover{
+    color: yellowgreen;
+}
+.fa-solid:hover{
+    color:yellowgreen
+}
+#ph1{
+    height: 450px;
+    width: 350px;
+    border-radius: 40px;
+    -webkit-box-shadow: 11px 4px 30px 3px rgba(133,123,133,1);
+-moz-box-shadow: 11px 4px 30px 3px rgba(133,123,133,1);
+box-shadow: 11px 4px 30px 3px rgba(133,123,133,1);
+    /* position: relative;
+    bottom: 90px; */
+}
+#aboutimg{
+    height: 400px;
+    width: 350px;
+    -webkit-box-shadow: 11px 4px 30px 3px rgba(133,123,133,1);
+    -moz-box-shadow: 11px 4px 30px 3px rgba(133,123,133,1);
+    box-shadow: 11px 4px 30px 3px rgba(133,123,133,1);
+    
+}
+#li1{
+    
+}
